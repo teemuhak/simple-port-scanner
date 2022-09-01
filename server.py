@@ -13,3 +13,4 @@ class SputHTTPRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 
 if __name__ == '__main__':
     SimpleHTTPServer.test(HandlerClass=SputHTTPRequestHandler)
+    
