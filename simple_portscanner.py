@@ -45,5 +45,5 @@ except socket.gaierror:
         sys.exit()
 # Exit if host not responding
 except socket.error:
-        print("\ Server not responding.")
+        print("\n Server not responding.")
         sys.exit()
