@@ -19,7 +19,7 @@ target = input("Target host: ")
 # Banner when starting scan
 # Line
 print("-" * 50)
-print("Scanning Target: " + target)
+print("Scanning target: " + target)
 print("Scanning started at: " + str(datetime.now()))
 # Line
 print("-" * 50)
