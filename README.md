@@ -16,3 +16,5 @@ A very simple port scanner that scans for open ports.
   > python3 simple_portscanner.py
 
   ```
+# Disclaimer:
+Only use this tool for targets you are allowed to scan!
