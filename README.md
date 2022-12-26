@@ -1,4 +1,4 @@
-# simple-port-scanner
+# simple_portscanner.py
 A very simple port scanner that scans for open ports.
 
 # Installing
